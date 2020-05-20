@@ -1,0 +1,10 @@
+D:\Gor-C#\WinContainer\WinContainer\bin\Debug\WinContainer.exe.config
+D:\Gor-C#\WinContainer\WinContainer\bin\Debug\WinContainer.exe
+D:\Gor-C#\WinContainer\WinContainer\bin\Debug\WinContainer.pdb
+D:\Gor-C#\WinContainer\WinContainer\obj\Debug\WinContainer.csprojResolveAssemblyReference.cache
+D:\Gor-C#\WinContainer\WinContainer\obj\Debug\WinContainer.Form1.resources
+D:\Gor-C#\WinContainer\WinContainer\obj\Debug\WinContainer.Properties.Resources.resources
+D:\Gor-C#\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.GenerateResource.Cache
+D:\Gor-C#\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.CoreCompileInputs.cache
+D:\Gor-C#\WinContainer\WinContainer\obj\Debug\WinContainer.exe
+D:\Gor-C#\WinContainer\WinContainer\obj\Debug\WinContainer.pdb

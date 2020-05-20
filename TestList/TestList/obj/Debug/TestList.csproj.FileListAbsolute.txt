@@ -1,0 +1,10 @@
+D:\Gor-C#\TestList\TestList\bin\Debug\TestList.exe.config
+D:\Gor-C#\TestList\TestList\bin\Debug\TestList.exe
+D:\Gor-C#\TestList\TestList\bin\Debug\TestList.pdb
+D:\Gor-C#\TestList\TestList\obj\Debug\TestList.csprojResolveAssemblyReference.cache
+D:\Gor-C#\TestList\TestList\obj\Debug\TestList.Form1.resources
+D:\Gor-C#\TestList\TestList\obj\Debug\TestList.Properties.Resources.resources
+D:\Gor-C#\TestList\TestList\obj\Debug\TestList.csproj.GenerateResource.Cache
+D:\Gor-C#\TestList\TestList\obj\Debug\TestList.csproj.CoreCompileInputs.cache
+D:\Gor-C#\TestList\TestList\obj\Debug\TestList.exe
+D:\Gor-C#\TestList\TestList\obj\Debug\TestList.pdb

@@ -1,0 +1,9 @@
+D:\Projects\DopEx1\DopEx1\bin\Debug\DopEx1.exe.config
+D:\Projects\DopEx1\DopEx1\bin\Debug\DopEx1.exe
+D:\Projects\DopEx1\DopEx1\bin\Debug\DopEx1.pdb
+D:\Projects\DopEx1\DopEx1\obj\Debug\DopEx1.Form1.resources
+D:\Projects\DopEx1\DopEx1\obj\Debug\DopEx1.Properties.Resources.resources
+D:\Projects\DopEx1\DopEx1\obj\Debug\DopEx1.csproj.GenerateResource.cache
+D:\Projects\DopEx1\DopEx1\obj\Debug\DopEx1.csproj.CoreCompileInputs.cache
+D:\Projects\DopEx1\DopEx1\obj\Debug\DopEx1.exe
+D:\Projects\DopEx1\DopEx1\obj\Debug\DopEx1.pdb

@@ -1,0 +1,10 @@
+D:\Gor-C#\WinTimer2\WinTimer2\bin\Debug\WinTimer2.exe.config
+D:\Gor-C#\WinTimer2\WinTimer2\bin\Debug\WinTimer2.exe
+D:\Gor-C#\WinTimer2\WinTimer2\bin\Debug\WinTimer2.pdb
+D:\Gor-C#\WinTimer2\WinTimer2\obj\Debug\WinTimer2.CustomControlTimer2.resources
+D:\Gor-C#\WinTimer2\WinTimer2\obj\Debug\WinTimer2.Properties.Resources.resources
+D:\Gor-C#\WinTimer2\WinTimer2\obj\Debug\WinTimer2.csproj.GenerateResource.Cache
+D:\Gor-C#\WinTimer2\WinTimer2\obj\Debug\WinTimer2.csproj.CoreCompileInputs.cache
+D:\Gor-C#\WinTimer2\WinTimer2\obj\Debug\WinTimer2.exe
+D:\Gor-C#\WinTimer2\WinTimer2\obj\Debug\WinTimer2.pdb
+D:\Gor-C#\WinTimer2\WinTimer2\obj\Debug\WinTimer2.Form1.resources

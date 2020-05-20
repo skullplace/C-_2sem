@@ -1,0 +1,9 @@
+D:\Gor-C#\WinButNum\WinButNum\bin\Debug\WinButNum.exe.config
+D:\Gor-C#\WinButNum\WinButNum\bin\Debug\WinButNum.exe
+D:\Gor-C#\WinButNum\WinButNum\bin\Debug\WinButNum.pdb
+D:\Gor-C#\WinButNum\WinButNum\obj\Debug\WinButNum.Properties.Resources.resources
+D:\Gor-C#\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.GenerateResource.Cache
+D:\Gor-C#\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.CoreCompileInputs.cache
+D:\Gor-C#\WinButNum\WinButNum\obj\Debug\WinButNum.exe
+D:\Gor-C#\WinButNum\WinButNum\obj\Debug\WinButNum.pdb
+D:\Gor-C#\WinButNum\WinButNum\obj\Debug\WinButNum.Form1.resources

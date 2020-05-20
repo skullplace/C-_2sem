@@ -1,0 +1,11 @@
+D:\Gor-C#\WinTimer1\WinTimer1\bin\Debug\WinTimer1.exe.config
+D:\Gor-C#\WinTimer1\WinTimer1\bin\Debug\WinTimer1.exe
+D:\Gor-C#\WinTimer1\WinTimer1\bin\Debug\WinTimer1.pdb
+D:\Gor-C#\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csprojResolveAssemblyReference.cache
+D:\Gor-C#\WinTimer1\WinTimer1\obj\Debug\WinTimer1.Properties.Resources.resources
+D:\Gor-C#\WinTimer1\WinTimer1\obj\Debug\WinTimer1.UserControlTimer.resources
+D:\Gor-C#\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csproj.GenerateResource.Cache
+D:\Gor-C#\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csproj.CoreCompileInputs.cache
+D:\Gor-C#\WinTimer1\WinTimer1\obj\Debug\WinTimer1.exe
+D:\Gor-C#\WinTimer1\WinTimer1\obj\Debug\WinTimer1.pdb
+D:\Gor-C#\WinTimer1\WinTimer1\obj\Debug\WinTimer1.Form1.resources
